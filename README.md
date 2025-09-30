@@ -1,12 +1,12 @@
-# 👋 Olá! Eu sou Luanllg
+# 👋 Olá! Eu sou Luan
 
-🎓 **Estudante** começando minha jornada como desenvolvedor, apaixonado por tecnologia e pelo processo de aprender sempre mais.
+🎓 **Estudante** começando minha jornada como desenvolvedor.
 
 💡 Gosto de me aprofundar em uma linguagem por vez, atualmente estudo **C**, **C#**, **HTML**, **CSS** e **JavaScript**. Acredito que o foco é importante, mas nunca deixo de buscar novos conhecimentos.
 
 ## 🚀 Projetos que me orgulho
 
-- [Matrizes](https://github.com/Luanllg/Matrizes) — Meu projeto favorito até agora!
+- [Matrizes](https://github.com/Luanllg/Matrizes) — Meu projeto favorito até agora, lista de exercicios força a buscar sempre uma ,melhor logica!
 - [C--project](https://github.com/Luanllg/C--project)
 - [exercicios8](https://github.com/Luanllg/exercicios8)
 
